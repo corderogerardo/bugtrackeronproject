@@ -1,2 +1,5 @@
-/vendor
-/.idea
+.idea/
+vendor/
+generated-migrations/
+/public/bower_components
+/app/models/DB
