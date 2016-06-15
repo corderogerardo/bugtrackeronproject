@@ -7,7 +7,7 @@
  */
 return [
     'debug' => true,
-    'templates.path' => 'app/templates',
+    'templates.path' => __DIR__. '/../../templates',
     'cookies.encrypt' => true,
     'cookies.secret_key' => md5('ds34kj'),
 ];
